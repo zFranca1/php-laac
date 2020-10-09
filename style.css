@@ -1,0 +1,100 @@
+body {
+    background-color: #b3b3ff;
+}
+
+li {
+    color: black;
+}
+
+#ex1 {
+    border-radius: 10px !important;
+}
+
+#ex2 {
+    border-radius: 10px;
+}
+
+#ex3 {
+    border-radius: 10px;
+    padding-right: 2px;
+}
+
+.text-color {
+    color: black;
+}
+
+.text-color-white {
+    color: white;
+}
+
+.exemplo-1 {
+    padding-left: 45px !important;
+}
+
+.exemplo-2 {
+    padding-left: 45px !important;
+}
+
+.exemplo-3 {
+    padding-left: 45px !important;
+}
+
+.cor {
+    background-color: #1C1C1C !important;
+}
+
+.cor2 {
+    color: #b3b3ff;
+}
+
+.cor3 {
+    color: black;
+}
+
+.carosel {
+    border-radius: 10px;
+}
+
+.carac {
+    border-radius: 10px;
+}
+
+.oque {
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-bottom: 6px;
+    padding-top: 5px;
+}
+
+.para {
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-bottom: 6px;
+    padding-top: 5px;
+}
+
+.links {
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-bottom: 6px;
+    padding-top: 5px;
+}
+
+.link {
+    color: black;
+}
+
+.larav {
+    padding-left: 10px;
+}
+
+.page-footer {
+    background-color: #1C1C1C !important;
+}
+
+.foot {
+    color: white;
+}
